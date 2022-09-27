@@ -1,9 +1,12 @@
 
 body {
-background-color: blanchedalmond;
+background-color: #fff;
 }   
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     color: #222;
+    font-weight: 100;
+    margin-left: 1vw;
+    font-size: 2vw;
 }

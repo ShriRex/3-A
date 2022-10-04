@@ -1,0 +1,71 @@
+* {
+  margin: 0.5vw;  
+  font-family:  adobe-text-pro, serif;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 2vw;
+    color: #222222;
+
+}
+
+nav {
+    float: inline-end;
+    margin-top: -2.5vw;
+    font-size: 1.2vw;
+}
+
+a {
+    text-decoration: none;
+    color: #222222;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.current {
+    font-weight: 700;
+}
+
+.current:hover {
+    text-decoration: none;
+    cursor: default;
+}
+
+table.index {
+    table-layout: auto;
+    width: 65%;  
+    border: 1px solid white;
+    border-collapse: collapse;    
+    text-align: left;
+    margin-top: 10vw;
+    padding: 25vw;
+    margin-bottom: 5vw;
+    font-size: 1vw;
+  }
+
+td {
+padding-top: 1.25vw;
+}
+
+.grandparents {
+    margin-left: -2vw;
+}
+
+.melol {
+    margin-left: -2vw;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+img {
+    width: 10vw;
+    height: auto;
+}
+

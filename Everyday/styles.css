@@ -1,0 +1,68 @@
+* {
+  margin: 0.5vw;  
+  font-family:  adobe-text-pro, serif;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+footer {
+    position: sticky;
+}
+
+
+.lang {
+    float: inline-end;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 2vw;
+    color: #222222;
+
+}
+
+nav {
+    float: inline-end;
+    margin-top: -2.5vw;
+    font-size: 1.2vw;
+}
+
+a {
+    text-decoration: none;
+    color: #222222;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.current {
+    font-weight: 700;
+}
+
+.current:hover {
+    text-decoration: none;
+    cursor: default;
+}
+
+.gallery {
+    margin-top: 10vw;
+    display: flex;
+    margin-left: -0.25vw;
+    flex-direction: row;
+  }
+
+.grandparents{
+filter: sepia(90%) contrast(99%);
+}
+  
+.melol {
+filter: saturate(100) contrast(25);
+
+} 
+

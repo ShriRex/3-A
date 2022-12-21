@@ -7,7 +7,7 @@ body {
 background-image: url(ocean.jpg);
 margin-top: -5vw;
 width: 100vw;
-height: 100vh;
+height: 101vh;
 }
 
 img {
@@ -17,16 +17,16 @@ margin-left: -10vw;
 
 
 h1 {
-    font-family: serif;
+    font-family: scotch-deck-compressed, sans-serif;
     color: greenyellow;
     font-weight: 200;
     margin-left: 1vw;
-    font-size: 7.5vw;
+    font-size: 7vw;
     z-index: 2;
 }
 
 h3 {
-    font-family: serif;
+    font-family: scotch-deck-compressed, sans-serif;
     font-style: italic;
     color: greenyellow;
     font-weight: 200;
@@ -37,7 +37,7 @@ h3 {
 }
 
 .heading {
-    font-family: serif;
+    font-family: scotch-deck-compressed, sans-serif;
     font-style: italic;
     font-weight: 200;
     font-size: 3.5vw;
@@ -46,7 +46,7 @@ h3 {
 
 a {
     color: white;
-    font-family: serif;
+    font-family: scotch-deck-compressed, sans-serif;
     font-weight: 200;
     font-size: 2vw;
     margin-left: 1vw;

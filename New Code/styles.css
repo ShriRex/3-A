@@ -280,6 +280,9 @@ z-index: 1;
     margin-left: 0.75vw;
   }
 
+a:hover {
+  color: red;
+}
 
 
   @media screen and (max-width: 574px) {

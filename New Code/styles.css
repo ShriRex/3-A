@@ -260,6 +260,34 @@ body {
         transform: rotateY(180deg);
       }
 
+      .vert6 {
+      height: 40vw;
+      width: 30vw;
+    }
+    
+      .vert6:hover .flip-card-inner {
+        transform: rotateY(-165deg) rotateZ(-90deg);
+      }
+    
+      .vert7 .flip-card-back {
+        color: black;
+        transform: rotateY(180deg);
+      }
+
+      .vert7 {
+      height: 40vw;
+      width: 30vw;
+    }
+    
+      .vert7:hover .flip-card-inner {
+        transform: rotateY(175deg) rotateZ(80deg);
+      }
+    
+      .vert7 .flip-card-back {
+        color: black;
+        transform: rotateY(-180deg);
+      }
+
   
 .nav {
   margin: 0;
@@ -272,7 +300,7 @@ z-index: 1;
 
   a {
     font-family: 'Handwriting';
-    font-size: 2vw;
+    font-size: 2.25vw;
     color: black;
     margin: 0;
     padding: 0;

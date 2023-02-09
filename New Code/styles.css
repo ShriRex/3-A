@@ -288,6 +288,36 @@ body {
         transform: rotateY(-180deg);
       }
 
+       .vert8 {
+      height: 40vw;
+      width: 30vw;
+    }
+    
+      .vert8:hover .flip-card-inner {
+        transform: rotateY(-150deg) rotateZ(120deg);
+      }
+    
+      .vert8 .flip-card-back {
+        color: black;
+        transform: rotateY(-180deg);
+      }
+
+             .vert9 {
+      height: 40vw;
+      width: 30vw;
+    }
+    
+      .vert9:hover .flip-card-inner {
+        transform: rotateY(-180deg) rotateZ(125deg);
+      }
+    
+      .vert9 .flip-card-back {
+        color: black;
+        transform: rotateY(-150deg);
+      }
+
+     
+  
   
 .nav {
   margin: 0;
